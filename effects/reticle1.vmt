@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/reticle1"
-	"$translucent" 1
-	"$no_fullbright" "1"
-}
-

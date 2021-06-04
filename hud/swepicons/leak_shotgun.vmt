@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "HUD/swepicons/leak_shotgun"
+	"$additive" "1"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$ignorez"     "1"
+}
